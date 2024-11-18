@@ -1,0 +1,9 @@
+User-agent:*
+Allow:/
+
+Sitemap: https://yasauasanu295.github.io/yasauasanu295_github_io_zp529_13.txt
+Sitemap: https://yasauasanu295.github.io/yasauasanu295_github_io_zp529_18.txt
+Sitemap: https://yasauasanu295.github.io/yasauasanu295_github_io_zp529_22.txt
+Sitemap: https://yasauasanu295.github.io/yasauasanu295_github_io_zp529_27.txt
+Sitemap: https://yasauasanu295.github.io/yasauasanu295_github_io_zp529_31.txt
+Sitemap: https://yasauasanu295.github.io/yasauasanu295_github_io_zp529_8.txt
